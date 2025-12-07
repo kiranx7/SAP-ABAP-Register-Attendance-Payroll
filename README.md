@@ -4,11 +4,13 @@
 This mini project contains SAP ABAP programs developed to manage employee attendance and automated salary generation. The system maintains employee records, tracks daily login/leave, and generates a monthly salary slip based on present and leave days.
 
 # Programs Included
-1.ZEMP_ENTRY
+1. ZEMP_ENTRY
 program to add employee master details such as name, age, gender, salary etc.
-2.ZEMP_ATTENDANCE
+
+2. ZEMP_ATTENDANCE
 Program to mark employee attendance — login (present) or leave — with validations to prevent duplicate entries for the same day.
-3.ZEMP_SALARY_CALC
+
+3. ZEMP_SALARY_CALC
 Program to calculate salary for a selected month and generate a salary slip based on attendance data.
 
 # ABAP Concepts Used
